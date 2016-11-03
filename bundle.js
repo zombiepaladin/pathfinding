@@ -705,7 +705,7 @@ module.exports={ "height":10,
         {
          "columns":2,
          "firstgid":1,
-         "image":"..\/tilemap\/tilesets\/example.png",
+         "image":".\/tilesets\/example.png",
          "imageheight":130,
          "imagewidth":128,
          "margin":0,
